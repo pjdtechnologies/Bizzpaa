@@ -1,2 +1,2 @@
-# Bizzpaa
-When talking about digital payments the most concern is about security. PJD technologies provide the most secure digital payment solutions for customers, retailers, and distributors.
+Best API providers for Digital Payments| PJD technologies
+If you are looking APIs for personalizing B2B portals then PJD technologies have made your wish come true. they provide the best, ready to use and secure plugins for making personalized B2B portals. These portals can be used by the name and logo of the distributor. It helps in adding value to the business. Through these APIs, the distributors and the retailers can sell the services of PJD Technologies India Limited to their customers. Through these APIs, you can sell services such that Aadhaar Enabled Payment Services - AEPS, Money Transfer Services, Bill payment services, travel booking, recharges, and AADHAR payments. For more details visits http://pjdtechnologies.com/
